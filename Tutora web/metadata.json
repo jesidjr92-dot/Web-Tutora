@@ -1,0 +1,6 @@
+{
+  "name": "Academic Kinetic",
+  "description": "Plataforma académica de tutorías entre pares universitarios con tutores verificados, reservas al instante y salas de estudio colaborativas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
