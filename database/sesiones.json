@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": "ses_01",
+    "tutorId": "tutor_02",
+    "estudiante": "Ana García",
+    "materia": "Estructuras de Datos",
+    "fecha": "2026-05-14",
+    "estado": "confirmada",
+    "pagoCOP": 35000
+  }
+]
