@@ -1,0 +1,4 @@
+[
+  { "id": "user_01", "nombre": "Ana García", "rol": "estudiante", "universidad": "CUC" },
+  { "id": "user_02", "nombre": "Sofía Mendoza", "rol": "tutor", "universidad": "CUC" }
+]
