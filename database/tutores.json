@@ -1,1 +1,29 @@
-
+[
+  {
+    "id": "tutor_01",
+    "nombre": "Sofía Mendoza",
+    "universidad": "Universidad de la Costa (CUC)",
+    "tarifaHora": 32000,
+    "calificacion": 4.90,
+    "materias": ["Cálculo I", "Cálculo Multivariable", "Ecuaciones Diferenciales"],
+    "disponibleHoy": false
+  },
+  {
+    "id": "tutor_02",
+    "nombre": "Mariana Roctova",
+    "universidad": "Universidad del Norte (Uninorte)",
+    "tarifaHora": 35000,
+    "calificacion": 4.90,
+    "materias": ["Estructuras de Datos", "Algoritmos II"],
+    "disponibleHoy": true
+  },
+  {
+    "id": "tutor_03",
+    "nombre": "Valentina Vergara",
+    "universidad": "Universidad Libre (Barranquilla)",
+    "tarifaHora": 30000,
+    "calificacion": 4.81,
+    "materias": ["Derecho Constitucional", "Teoría del Delito"],
+    "disponibleHoy": true
+  }
+]
